@@ -1,2 +1,1 @@
-# bbf-kubernetes
-Repository for the book "Build, Breaking, Fixing: A Playful Way to Learn Kubernetes”
+# K8S  n회차
